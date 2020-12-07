@@ -35,7 +35,8 @@ int main()
     // 2. Write a nested loop to transpose M. Given Matrix A, the transpose A'[i][j]=A[j][i]
     //    For full marks, you must do this "in place" (without making another matrix) and as efficiently as possible
 
-    // 3. Write a function to transpose a NxM array to a MxN array. Write code below to demonstrate it
+    // 3. Write a function to transpose a NxM array to a MxN array. Write code below to demonstrate it.
+    //    Hint: I suggest you use pointers and make sure you understand how arrays are arranged in memory
 
     // ***** MODIFY THE CODE ABOVE HERE *****
 
