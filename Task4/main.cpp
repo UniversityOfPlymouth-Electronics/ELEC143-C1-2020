@@ -20,7 +20,7 @@ int main()
 
     // 2. Wait for sw2 to be pressed and released
 
-    // 3. Wait for sw1 and sw2 to be pressed
+    // 3. Wait for sw1 and sw2 to be pressed (together)
 
     // 4. Wait for either sw1 or sw2 to be released
 
